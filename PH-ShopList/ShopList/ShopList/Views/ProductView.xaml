@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:ViewModels="clr-namespace:ShopList.ViewModels"
+             x:Class="ShopList.Views.ProductView" Title="Mis Productos">
+
+    <ContentPage.BindingContext>
+        <ViewModels:ProductViewModel/>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Visualizacion de productos"
+                TextColor="Black"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+
+            <Button Text="Cargar Lista"
+                    Command="{Binding LoadProductsCommand}"
+                    TextColor="white"
+                    BackgroundColor="Coral"></Button>
+            <ListView ItemsSource="{Binding ProductList}" HasUnevenRows="False">
+                
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Label Text="{Binding Description}"></Label>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

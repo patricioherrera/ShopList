@@ -1,0 +1,11 @@
+C:\Users\Carlos\source\repos\ShopList\ConsoleTester\bin\Debug\ConsoleTester.exe.config
+C:\Users\Carlos\source\repos\ShopList\ConsoleTester\bin\Debug\ConsoleTester.exe
+C:\Users\Carlos\source\repos\ShopList\ConsoleTester\bin\Debug\ConsoleTester.pdb
+C:\Users\Carlos\source\repos\ShopList\ConsoleTester\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Carlos\source\repos\ShopList\ConsoleTester\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Carlos\source\repos\ShopList\ConsoleTester\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Carlos\source\repos\ShopList\ConsoleTester\obj\Debug\ConsoleTester.csprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\ShopList\ConsoleTester\obj\Debug\ConsoleTester.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\ShopList\ConsoleTester\obj\Debug\ConsoleTester.csproj.CopyComplete
+C:\Users\Carlos\source\repos\ShopList\ConsoleTester\obj\Debug\ConsoleTester.exe
+C:\Users\Carlos\source\repos\ShopList\ConsoleTester\obj\Debug\ConsoleTester.pdb

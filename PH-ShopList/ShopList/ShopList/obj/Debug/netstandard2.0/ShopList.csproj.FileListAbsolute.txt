@@ -1,0 +1,13 @@
+C:\Users\Carlos\source\repos\ShopList\ShopList\ShopList\bin\Debug\netstandard2.0\ShopList.deps.json
+C:\Users\Carlos\source\repos\ShopList\ShopList\ShopList\bin\Debug\netstandard2.0\ShopList.dll
+C:\Users\Carlos\source\repos\ShopList\ShopList\ShopList\bin\Debug\netstandard2.0\ShopList.pdb
+C:\Users\Carlos\source\repos\ShopList\ShopList\ShopList\obj\Debug\netstandard2.0\ShopList.csprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\ShopList\ShopList\ShopList\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Carlos\source\repos\ShopList\ShopList\ShopList\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Carlos\source\repos\ShopList\ShopList\ShopList\obj\Debug\netstandard2.0\Views\ProductView.xaml.g.cs
+C:\Users\Carlos\source\repos\ShopList\ShopList\ShopList\obj\Debug\netstandard2.0\ShopList.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\ShopList\ShopList\ShopList\obj\Debug\netstandard2.0\ShopList.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\ShopList\ShopList\ShopList\obj\Debug\netstandard2.0\ShopList.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\ShopList\ShopList\ShopList\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Carlos\source\repos\ShopList\ShopList\ShopList\obj\Debug\netstandard2.0\ShopList.dll
+C:\Users\Carlos\source\repos\ShopList\ShopList\ShopList\obj\Debug\netstandard2.0\ShopList.pdb

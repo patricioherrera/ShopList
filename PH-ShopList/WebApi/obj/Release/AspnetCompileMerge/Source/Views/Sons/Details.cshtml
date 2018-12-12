@@ -1,0 +1,34 @@
+﻿@model WebApi.Models.Son
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Son</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FatherId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FatherId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SonName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SonName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.SonId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
